@@ -19,4 +19,6 @@ choco install nvm -y
 choco install nodejs -y
 
 choco install slack -y
+
+choco install docker-desktop -y
 ```
